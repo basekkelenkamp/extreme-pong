@@ -1,0 +1,50 @@
+body {
+    background-color: #70CF51;
+    font-family: 'Press Start 2P', cursive;
+    color:white;
+    font-size:22px;
+    overflow:hidden;
+    margin:0px; padding:0px;
+}
+
+game * {
+    position: absolute;
+    display: block;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+}
+
+score {
+    margin:15px;
+}
+
+ball {
+    background-image: url(../images/pokeball.png);
+    width:40px; height: 40px;
+}
+
+paddle {
+    background-image: url(../images/paddle.png);
+    width:25px; height:100px;
+}
+
+background {
+    background-image: url(../images/grass.png);
+    width:100%; height: 100%;
+    background-size: cover;
+}
+
+powerup {
+    width: 75px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: rgb(28, 148, 28);
+    font-size: 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+p {
+    margin-top: 40px;
+    font-size: 14px;
+}
