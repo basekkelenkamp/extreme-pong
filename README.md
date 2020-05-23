@@ -1,7 +1,7 @@
 # extreme-pong
 Pong but extreme
 
-##Rules
+Rules
 
 - Hitting the right side gets you a point
 - Hitting the left side takes a point
@@ -9,7 +9,7 @@ Pong but extreme
 - A ball hitting the left side dies, making a new one spawn
 
 
-##Powerups
+Powerups
 
 - +10 ball multiplier
 - +20 ball multiplier
