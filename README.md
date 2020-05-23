@@ -1,5 +1,4 @@
 # extreme-pong
-Pong but extreme
 
 Rules
 
